@@ -1,6 +1,6 @@
 # kbfg2
 
-A new Flutter project.
+위젯과 sqlite를 활용하여 주식 종목을 출력하고 갱신, 추가, 삭제 할 수 있는 어플입니다. 
 
 ## Getting Started
 
